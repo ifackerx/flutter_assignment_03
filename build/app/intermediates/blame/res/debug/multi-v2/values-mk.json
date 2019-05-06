@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ifackerx/Downloads/flutter_assignment_03/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/Users/ifackerx/Documents/flutter_assignment_03/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/Users/ifackerx/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f2d496d1cfe79b77381ce8e26567ad86/res/values-mk/values.xml",

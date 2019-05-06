@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">348052242370-j4b28f567m1jeuklgptu5i9e0vir1jhl.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://fluuterassignment03.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">348052242370</string>
-    <string name="google_api_key" translatable="false">AIzaSyCVhfnbkYF0JvcEVjOrFkfAlYNn1lWUOXY</string>
-    <string name="google_app_id" translatable="false">1:348052242370:android:88b5f9cf864b6c4d</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCVhfnbkYF0JvcEVjOrFkfAlYNn1lWUOXY</string>
-    <string name="google_storage_bucket" translatable="false">fluuterassignment03.appspot.com</string>
-    <string name="project_id" translatable="false">fluuterassignment03</string>
+    <string name="default_web_client_id" translatable="false">1016826035486-5r6qrh8cof569lmjqtbutb2uss79t0vs.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mobile-64758.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1016826035486</string>
+    <string name="google_api_key" translatable="false">AIzaSyBF2h_AaPQzOwnlR3nMggpbRWbG_R33sJg</string>
+    <string name="google_app_id" translatable="false">1:1016826035486:android:88b5f9cf864b6c4d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBF2h_AaPQzOwnlR3nMggpbRWbG_R33sJg</string>
+    <string name="google_storage_bucket" translatable="false">mobile-64758.appspot.com</string>
+    <string name="project_id" translatable="false">mobile-64758</string>
 </resources>

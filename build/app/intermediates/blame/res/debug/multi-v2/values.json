@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ifackerx/Downloads/flutter_assignment_03/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/ifackerx/Documents/flutter_assignment_03/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/ifackerx/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f2d496d1cfe79b77381ce8e26567ad86/res/values/values.xml",
@@ -34,9 +34,9 @@
                     "to": {
                         "startLines": "12,13,15,89,129,131,132,137,139",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "908,997,1126,4480,8547,8723,8845,9107,9302",
+                        "startOffsets": "908,997,1126,4480,8529,8705,8827,9089,9284",
                         "endColumns": "88,70,72,59,65,121,60,65,66",
-                        "endOffsets": "992,1063,1194,4535,8608,8840,8901,9168,9364"
+                        "endOffsets": "992,1063,1194,4535,8590,8822,8883,9150,9346"
                     }
                 },
                 {
@@ -52,31 +52,31 @@
                     "to": {
                         "startLines": "10,11,14,16,17,26,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,91,118,124,125,130,133,138,140,141",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "776,845,1068,1199,1273,1834,2839,2909,2977,3049,3119,3180,3241,3302,3364,3428,3490,3551,3619,3719,3779,3845,3918,3987,4044,4096,4158,4230,4306,4341,4376,4410,4445,4608,7861,8229,8346,8613,8906,9173,9369,9441",
+                        "startOffsets": "776,845,1068,1199,1273,1834,2839,2909,2977,3049,3119,3180,3241,3302,3364,3428,3490,3551,3619,3719,3779,3845,3918,3987,4044,4096,4158,4230,4306,4341,4376,4410,4445,4608,7843,8211,8328,8595,8888,9155,9351,9423",
                         "endLines": "10,11,14,16,25,29,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,91,118,124,128,130,136,138,140,141",
                         "endColumns": "68,62,57,73,35,115,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
-                        "endOffsets": "840,903,1121,1268,1829,2102,2904,2972,3044,3114,3175,3236,3297,3359,3423,3485,3546,3614,3714,3774,3840,3913,3982,4039,4091,4153,4225,4301,4336,4371,4405,4440,4475,4673,7927,8341,8542,8718,9102,9297,9436,9503"
+                        "endOffsets": "840,903,1121,1268,1829,2102,2904,2972,3044,3114,3175,3236,3297,3359,3423,3485,3546,3614,3714,3774,3840,3913,3982,4039,4091,4153,4225,4301,4336,4371,4405,4440,4475,4673,7909,8323,8524,8700,9084,9279,9418,9485"
                     }
                 },
                 {
-                    "source": "/Users/ifackerx/Downloads/flutter_assignment_03/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/Users/ifackerx/Documents/flutter_assignment_03/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,313,395,499,602,722,825",
-                        "endColumns": "143,113,81,103,102,119,102,79",
-                        "endOffsets": "194,308,390,494,597,717,820,900"
+                        "startOffsets": "55,200,307,390,494,598,718,814",
+                        "endColumns": "144,106,82,103,103,119,95,72",
+                        "endOffsets": "195,302,385,489,593,713,809,882"
                     },
                     "to": {
                         "startLines": "110,111,112,113,114,115,116,117",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "7011,7155,7269,7351,7455,7558,7678,7781",
-                        "endColumns": "143,113,81,103,102,119,102,79",
-                        "endOffsets": "7150,7264,7346,7450,7553,7673,7776,7856"
+                        "startOffsets": "7011,7156,7263,7346,7450,7554,7674,7770",
+                        "endColumns": "144,106,82,103,103,119,95,72",
+                        "endOffsets": "7151,7258,7341,7445,7549,7669,7765,7838"
                     }
                 },
                 {
-                    "source": "/Users/ifackerx/Downloads/flutter_assignment_03/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/ifackerx/Documents/flutter_assignment_03/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -88,10 +88,10 @@
                     "to": {
                         "startLines": "119",
                         "startColumns": "4",
-                        "startOffsets": "7932",
+                        "startOffsets": "7914",
                         "endLines": "123",
                         "endColumns": "12",
-                        "endOffsets": "8224"
+                        "endOffsets": "8206"
                     }
                 },
                 {

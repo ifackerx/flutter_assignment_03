@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ifackerx/Downloads/flutter_assignment_03/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/ifackerx/Documents/flutter_assignment_03/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/ifackerx/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7ad97ac61d0d5c587e4b86589f299286/res/values-v24/values-v24.xml",
